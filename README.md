@@ -282,6 +282,40 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/◈_NETPHANTOM_INTEL-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="NetPhantom Intel"/>
+</p>
+
+<pre align="center">
+┌─ // TRANSMISSIONS ────────────────────────────┐
+│  ▷ Firm research · operator writing · uplink │
+└──────────────────────────────────────────────┘
+</pre>
+
+<div align="center">
+
+**Key Channels**
+
+| Channel | Intel |
+| --- | --- |
+| [**Blog Index**](https://netphantomsecurity.com/posts/) | All firm research & writing |
+| [**Team — Z3r0**](https://netphantomsecurity.com/team/) | Operator bio · Red Team & Threat Intel Lead |
+| [**Services**](https://netphantomsecurity.com/services/) | Red team, pentest, threat intel, exploit dev |
+| [**Contact**](https://netphantomsecurity.com/contact/) | Engagements & secure inquiries |
+
+**Research & Writing — NetPhantom Blog**
+
+| Post | Intel |
+| --- | --- |
+| [**You Can't Hire Badasses**](https://netphantomsecurity.com/2026/08/19/you-cant-hire-badasses/) | Hacker culture, community identity, and the bargain companies make when recruiting exceptional operators *(z3r0)* |
+| [**Modeling Applications as Adversarial State Machines**](https://netphantomsecurity.com/2026/01/02/adversarial/) | State desynchronization, business-logic abuse, and why scanners miss real attack paths |
+| [**From Checklists to Playbooks: Making Pentest Workflows Agent-Friendly**](https://netphantomsecurity.com/2025/12/10/toolkit/) | Structuring pentest knowledge for automation and LLM-driven agent workflows |
+| [**Precision Exploitation: A Well-Earned Congratulations to NullVoid's Research**](https://netphantomsecurity.com/2025/12/09/shoutout/) | Firmware-to-cloud exploitation chains and ground-truth offensive research |
+| [**OpSec at Scale: Keeping Your Large Team Safe at High-Risk Conferences**](https://netphantomsecurity.com/2025/10/09/opsec1/) | OpSec protocols for large red/blue teams at DEF CON and high-risk events |
+| [**You're not chasing shadows; We're chasing you.**](https://netphantomsecurity.com/2025/09/24/intro/) | NetPhantom Security firm introduction — red team, threat intel, and pentest |
+
+</div>
+
+<p align="center">
   <img src="https://img.shields.io/badge/◈_CONNECT-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Connect"/>
 </p>
 
