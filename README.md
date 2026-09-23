@@ -11,7 +11,7 @@
 ╚══════════════════════════════════════════════╝
 </pre>
 
-<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Pentest+%7C+RF+Security+%7C+Threat+Intel&font=Fira+Code&center=true&width=600&height=50&color=00E5FF&background=04030a&vCenter=true" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Pentest+%7C+RF+Security+%7C+Threat+Intel&font=Fira+Code&center=true&width=600&height=50&color=00E5FF&background=04030a&vCenter=true" alt="Typing animation"/>
 
 **Mitch Breton** · Penetration Tester / Red Team & Threat Intel Lead · [NetPhantom Security](https://netphantomsecurity.com/)
 
