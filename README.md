@@ -11,18 +11,21 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Pentest+%7C+RF+Security+%7C+Threat+Intel&font=Fira+Code&center=true&width=600&height=50&color=00fff5&background=0a0a0f&vCenter=true" alt="Typing animation"/>
 
-**Red Team & Threat Intelligence Lead** · [NetPhantom Security](https://netphantomsecurity.com/)
+**Mitch Breton** · Penetration Tester / Red Team & Threat Intel Lead · [NetPhantom Security](https://netphantomsecurity.com/)
+
+Toronto, Ontario · Remote
 
 <pre>
 ┌─ // OPERATOR TRANSMISSION ────────────────────────────────────────┐
-│  ▷ Find the control failure before the adversary does.           │
+│  ▷ Chain vulns into attack paths — not isolated findings.          │
 └───────────────────────────────────────────────────────────────────┘
 </pre>
 
 [![NetPhantom Security](https://img.shields.io/badge/NetPhantom_Security-offensive_ops-0a0a0f?style=for-the-badge&logo=ghost&logoColor=00fff5&labelColor=0d0221)](https://netphantomsecurity.com/)
-[![Role](https://img.shields.io/badge/role-red_team_%26_threat_intel-0d0221?style=for-the-badge&logo=target&logoColor=ff00ff&labelColor=0a0a0f)](https://netphantomsecurity.com/team/)
-[![Certs](https://img.shields.io/badge/certs-PNPT_·_PWPP_·_eJPT-0a0a0f?style=for-the-badge&logo=acclaim&logoColor=39ff14&labelColor=0d0221)](https://github.com/TheRedTerror)
-[![Status](https://img.shields.io/badge/status-ACTIVE-0d0221?style=for-the-badge&logo=radar&logoColor=00fff5&labelColor=0a0a0f)](https://github.com/TheRedTerror)
+[![Role](https://img.shields.io/badge/role-pentester_%26_red_team_lead-0d0221?style=for-the-badge&logo=target&logoColor=ff00ff&labelColor=0a0a0f)](https://netphantomsecurity.com/team/)
+[![PNPT](https://img.shields.io/badge/PNPT-2024-0a0a0f?style=for-the-badge&logo=acclaim&logoColor=39ff14&labelColor=0d0221)](https://github.com/TheRedTerror)
+[![PWPP](https://img.shields.io/badge/PWPP-2025-0d0221?style=for-the-badge&logo=acclaim&logoColor=00fff5&labelColor=0a0a0f)](https://github.com/TheRedTerror)
+[![eJPT](https://img.shields.io/badge/eJPT-2022-0a0a0f?style=for-the-badge&logo=acclaim&logoColor=ff00ff&labelColor=0d0221)](https://github.com/TheRedTerror)
 
 </div>
 
@@ -30,38 +33,46 @@
   <img src="https://img.shields.io/badge/▸_OPERATOR_PROFILE-00fff5?style=for-the-badge&labelColor=0a0a0f" alt="Operator Profile"/>
 </p>
 
-Offensive security operator at **NetPhantom Security** and **Senior Security Analyst II** at Aylo — I work from the adversary's perspective: manual app-sec testing, threat-intel-driven investigations, and building tooling that turns noisy signals into actionable findings.
+Offensive security engineer at **NetPhantom Security** and **Senior Security Analyst II** at Aylo — focused on application pentesting, adversary simulation, exploitation, identity abuse, and trust-boundary failures across web, API, Windows/Linux, Active Directory, network infrastructure, threat intelligence, and RF/physical security.
 
-My day-to-day spans OWASP Top 10 manual testing, 0-day discovery, triaging thousands of issues across engineering teams, and developing Python and AI-augmented offensive tools. Before app sec, I spent years on the network side — DDoS mitigation, DefensePro policy work, and attack forensics at Radware. At Aylo, a 2FA bypass discovery I reported prevented **$27K in bug-bounty payouts**; I also map **AD attack paths** with BloodHound, NetExec, and Mimikatz.
+I chain vulnerabilities into realistic attack paths rather than delivering isolated findings. At Aylo, a 2FA bypass discovery prevented **$27K in bug-bounty payouts**; I map **AD attack paths** with BloodHound, NetExec, and Mimikatz and build Python and AI-assisted tooling for secrets discovery and automation.
 
-**What I bring to engagements**
+**What clients get**
 
-- Evidence-first testing — findings reproduced by hand, not scanner output
-- App-sec depth: IDOR, XSS, RCE, CSRF, SQLi, business-logic abuse, 2FA bypass paths
-- Threat intel pipelines and MITRE ATT&CK–aligned investigation
-- Python automation for recon, secret scanning, and agentic AI pentest workflows
-- Reporting that works for executives and engineers
+- Attack-path narratives over checkbox scanner output
+- Manual auth, authz, and business-logic testing at depth
+- AD exploitation: BloodHound mapping → lateral movement → credential access
+- Python and AI-assisted tooling for secrets discovery and agentic AI pentest workflows
+- Technical and executive reporting that drives remediation priority
 
 > `> OUTPUT:` I don't hand you a tool dump. I tell you what breaks, why it matters, and what to fix first.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_BACKGROUND-ff00ff?style=for-the-badge&labelColor=0d0221" alt="Background"/>
+  <img src="https://img.shields.io/badge/▸_EXPERIENCE-ff00ff?style=for-the-badge&labelColor=0d0221" alt="Experience"/>
 </p>
 
 | Period | Role | Focus |
 | --- | --- | --- |
-| **2022 – present** | Senior Security Analyst II · Aylo | Internal app-sec audits, 0-day discovery, 2K+ issues/year triage, PCI-DSS TLS compliance across 9K+ assets, threat-intel investigations |
-| **Dec 2024 – Jul 2025** | Penetration Tester · Various clients | Web/API/internal infra pentest, Sliver/Cobalt Strike, attack-path chaining |
-| **2024** | Ghost Writer · Various clients (NDA) | Technical cybersec and app-sec blog content, SEO, video production |
-| **2022** | Tier 2 Support Engineer · Radware US | DoS mitigation hardware, attack forensics, client escalation |
-| **Jun 2020 – Oct 2022** | Resident Engineer · Radware Canada | DefensePro policies, heuristic DDoS protections, Wireshark analysis, incident response |
-
-**Education:** Advanced Diploma, Cyber-Security · Fanshawe College (Dean's List)
-
-**Certifications:** PNPT · PWPP · eJPT · CPEH · CRTO (course completed) · PAPA (in progress)
+| **Oct 2022 – present** | Senior Security Analyst II (Penetration Tester) · **Aylo** | Manual web/API pentest — auth, authz, business logic, OWASP Top 10. 2FA bypass + business-logic 0-days (~$27K bounty prevention). AD attack paths via BloodHound, NetExec/CME, Impacket, LDAP, ADRecon, Evil-WinRM, Mimikatz. Python + AI-assisted offensive tooling. ~2,000 findings triaged/retested annually. |
+| **Dec 2024 – Jul 2025** | Penetration Tester · **Various Clients** | Web, REST APIs, internal infra, hybrid environments — attack-path chaining over isolated findings. Burp, Nmap, Metasploit, Nuclei, Impacket, NetExec, Sliver, Cobalt Strike. Custom tooling, executive + technical reports. |
+| **Jun 2020 – Oct 2022** | Resident Engineer · **Radware Canada** | Enterprise network security, incident response, DefensePro. Wireshark analysis, DDoS telemetry, security policy design and tuning. |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_SPEAKING_%26_RESEARCH-ff00ff?style=for-the-badge&labelColor=0d0221" alt="Speaking & Research"/>
+  <img src="https://img.shields.io/badge/▸_CAPABILITIES-ff00ff?style=for-the-badge&labelColor=0d0221" alt="Capabilities"/>
+</p>
+
+| Domain | Focus |
+| --- | --- |
+| **Web / API** | Burp Suite, OWASP Top 10, IDOR, SQLi, XSS, CSRF, Nuclei, business-logic abuse |
+| **AD / Windows** | BloodHound, NetExec/CME, Impacket, Kerberos abuse, lateral movement, Evil-WinRM, Mimikatz |
+| **Network** | Nmap, Metasploit, Wireshark, pivoting, infrastructure exploitation |
+| **Adversary simulation** | Sliver, Cobalt Strike, post-exploitation, attack-path chaining, control bypass |
+| **Agentic AI security** | OWASP LLM Top 10, MITRE ATLAS, prompt injection, RAG abuse, MAS hijacking |
+| **Automation** | Python, Bash, Go, AI-assisted offensive tooling, secrets discovery |
+| **RF / Physical** | RFID, NFC, Wi-Fi, BLE, Zigbee, LoRa, LTE, covert entry, physical-security testing |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/▸_SPEAKING_%26_RESEARCH-a855f7?style=for-the-badge&labelColor=0a0a0f" alt="Speaking & Research"/>
 </p>
 
 | Event | Talk |
@@ -71,19 +82,16 @@ My day-to-day spans OWASP Top 10 manual testing, 0-day discovery, triaging thous
 | **BSides Montreal 2023** | "Introduction to Binary Exploitation Using Pwntools" |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_CAPABILITIES-ff00ff?style=for-the-badge&labelColor=0d0221" alt="Capabilities"/>
+  <img src="https://img.shields.io/badge/▸_CERTIFICATIONS-39ff14?style=for-the-badge&labelColor=0d0221" alt="Certifications"/>
 </p>
 
-| Domain | Focus |
-| --- | --- |
-| **Application security** | Manual OWASP Top 10 testing, business-logic abuse, 2FA bypass, IDOR chains |
-| **Agentic AI security** | OWASP LLM Top 10, MITRE ATLAS, prompt injection, RAG abuse, MAS hijacking |
-| **Threat intelligence** | Collection pipelines, adversary profiling, high-impact network investigations |
-| **Red team / pentest** | Windows/Linux escalation, Impacket, BloodHound, Burp-driven web exploitation |
-| **Adversary simulation** | Sliver, Cobalt Strike, post-exploitation, attack-path chaining, control bypass |
-| **RF / Physical** | RFID, NFC, Wi-Fi, BLE, Zigbee, LoRa, LTE, covert entry, physical-security testing |
-| **Tooling & automation** | Python offensive scripts, AI-augmented secret scanning, evidence-first pentest kits |
-| **Network security** | DDoS mitigation, DefensePro policy design, Wireshark forensics |
+[![PNPT](https://img.shields.io/badge/PNPT-TCM_Security-0a0a0f?style=flat-square&logo=acclaim&logoColor=39ff14&labelColor=0d0221)](https://github.com/TheRedTerror)
+[![PWPP](https://img.shields.io/badge/PWPP-TCM_Security-0d0221?style=flat-square&logo=acclaim&logoColor=00fff5&labelColor=0a0a0f)](https://github.com/TheRedTerror)
+[![eJPT](https://img.shields.io/badge/eJPT-eLearnSecurity-0a0a0f?style=flat-square&logo=acclaim&logoColor=ff00ff&labelColor=0d0221)](https://github.com/TheRedTerror)
+[![CRTO](https://img.shields.io/badge/CRTO-coursework_2024-0d0221?style=flat-square&logo=acclaim&logoColor=a855f7&labelColor=0a0a0f)](https://github.com/TheRedTerror)
+[![CPEH](https://img.shields.io/badge/CPEH-coursework_2024-0a0a0f?style=flat-square&logo=acclaim&logoColor=39ff14&labelColor=0d0221)](https://github.com/TheRedTerror)
+
+**Education:** Advanced Diploma, Cyber Security · Fanshawe College (2021) · Dean's List semesters 4–6
 
 <p align="center">
   <img src="https://img.shields.io/badge/▸_SELECTED_WORK-a855f7?style=for-the-badge&labelColor=0a0a0f" alt="Selected Work"/>
@@ -101,7 +109,7 @@ My day-to-day spans OWASP Top 10 manual testing, 0-day discovery, triaging thous
   <img src="https://img.shields.io/badge/▸_STACK_%26_INTERESTS-39ff14?style=for-the-badge&labelColor=0d0221" alt="Stack & Interests"/>
 </p>
 
-`Python` · `Rust` · `Bash` · `Go` · `Burp Suite` · `Metasploit` · `Impacket` · `Nuclei` · `BloodHound` · `Sliver` · `Cobalt Strike` · `Wireshark` · `RF security` · `agentic AI security` · `OWASP LLM Top 10` · `MITRE ATLAS` · `CTF platforms` · `SBOM` · `threat intel` · `red team`
+`Python` · `Rust` · `Bash` · `Go` · `Burp Suite` · `Metasploit` · `Impacket` · `Nuclei` · `BloodHound` · `NetExec` · `Sliver` · `Cobalt Strike` · `Wireshark` · `RF security` · `agentic AI security` · `OWASP LLM Top 10` · `MITRE ATLAS` · `CTF platforms` · `SBOM` · `threat intel` · `red team`
 
 <div align="center">
 
@@ -117,6 +125,7 @@ My day-to-day spans OWASP Top 10 manual testing, 0-day discovery, triaging thous
 - **Location:** Toronto, Ontario · Remote
 - **Firm:** [netphantomsecurity.com](https://netphantomsecurity.com/)
 - **Team / bio:** [NetPhantom — Z3r0](https://netphantomsecurity.com/team/)
+- **LinkedIn:** [LinkedIn](LINK)
 - **Engagements:** [Contact](https://netphantomsecurity.com/contact/) *(via NetPhantom Security)*
 
 <div align="center">
