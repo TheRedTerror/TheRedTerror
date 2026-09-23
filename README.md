@@ -100,7 +100,7 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 </p>
 
 <p align="center">
-  <img src="https://github-readme-tech-stack-animation.vercel.app/cards?lineCount=4&techStack=python,rust,go,bash,linux,docker,kali,git&align=center&duration=35&gradient=00E5FF,FF0055,935b95" alt="Tech stack animation"/>
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=z3r0&slugs=python,rust,go,gnubash,linux,docker,kalilinux,git" alt="Animated tech stack orbit"/>
 </p>
 
 <pre>
