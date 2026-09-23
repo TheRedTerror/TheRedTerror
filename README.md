@@ -1,6 +1,6 @@
 <div align="center">
 
-<pre>
+<pre align="center">
  ░▒▓█ z3r0 █▓▒░     ◈ NETPHANTOM ◈     ▓░▓ CYBERDECK v3.0 ▓░▓
  ╔═╗ ╔═╗ ╔═╗ ╔═╗    OPERATOR DOSSIER · RF · AD · AI · RF
  ║z ║ ║3 ║ ║r ║ ║0 ║    SIGNAL ████████░░ 80%  ·  THREAT ELEVATED
@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,04030a,10,071e36,50,935b95,90,300412,100,04030a&height=6&section=header&text=%20" alt="scanline"/>
 
-<pre>
+<pre align="center">
 ╔══════════════════════╗
 ║  ░▒▓ OPERATOR ▓▒░    ║
 ╚══════════════════════╝
@@ -21,7 +21,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=36&color=071e36&section=header&text=%20&fontSize=1" alt="grid layer"/>
 
-<pre>
+<pre align="center">
 ╔══════════════════════════════════════════════╗
 ║  ◈ SYSTEM ONLINE ◈  ·  OPERATOR: z3r0       ║
 ║     NETPHANTOM SECURITY  ·  DOSSIER v3.0     ║
@@ -37,11 +37,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=SIGNAL:+STABLE+80%25;THREAT:+ELEVATED;MODE:+ADVERSARIAL;UPLINK:+STABLE&font=Fira+Code&center=true&width=480&height=28&color=935b95&background=04030a&vCenter=true&pause=900&size=13" alt="Status ticker"/>
 
-**Mitch Breton** · Penetration Tester / Red Team & Threat Intel Lead · [NetPhantom Security](https://netphantomsecurity.com/)
+<p align="center"><strong>Mitch Breton</strong> · Penetration Tester / Red Team & Threat Intel Lead · <a href="https://netphantomsecurity.com/">NetPhantom Security</a></p>
 
-Toronto, Ontario · Remote
+<p align="center">Toronto, Ontario · Remote</p>
 
-<pre>
+<pre align="center">
 ┌─ // OPERATOR TRANSMISSION ────────────────────┐
 │  ▷ Chain vulns into attack paths — not       │
 │    isolated findings.                        │
@@ -49,18 +49,23 @@ Toronto, Ontario · Remote
 └──────────────────────────────────────────────┘
 </pre>
 
-[![PNPT](https://img.shields.io/badge/PNPT-2024-04030a?style=for-the-badge&logo=acclaim&logoColor=97d2e6&labelColor=071e36)](https://github.com/TheRedTerror)
-[![PWPP](https://img.shields.io/badge/PWPP-2025-071e36?style=for-the-badge&logo=acclaim&logoColor=00E5FF&labelColor=04030a)](https://github.com/TheRedTerror)
-[![eJPT](https://img.shields.io/badge/eJPT-2022-04030a?style=for-the-badge&logo=acclaim&logoColor=FF0055&labelColor=071e36)](https://github.com/TheRedTerror)
+<p align="center">
+  <a href="https://github.com/TheRedTerror"><img src="https://img.shields.io/badge/PNPT-2024-04030a?style=for-the-badge&logo=acclaim&logoColor=97d2e6&labelColor=071e36" alt="PNPT"/></a>
+  <a href="https://github.com/TheRedTerror"><img src="https://img.shields.io/badge/PWPP-2025-071e36?style=for-the-badge&logo=acclaim&logoColor=00E5FF&labelColor=04030a" alt="PWPP"/></a>
+  <a href="https://github.com/TheRedTerror"><img src="https://img.shields.io/badge/eJPT-2022-04030a?style=for-the-badge&logo=acclaim&logoColor=FF0055&labelColor=071e36" alt="eJPT"/></a>
+</p>
 
 </div>
 
-<pre>
-SIGNAL: ████████░░ 80%   THREAT: ▓▓▓▓▓▓▓░░░ ELEVATED   UPLINK: STABLE
-╔══ OPERATOR DOSSIER ════════════════════════╗
-║  ▷ operator identity · threat surface map  ║
-╚════════════════════════════════════════════╝
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/SIGNAL-80%25-04030a?style=flat-square&labelColor=071e36&color=00E5FF" alt="Signal 80%"/>
+  <img src="https://img.shields.io/badge/THREAT-ELEVATED-071e36?style=flat-square&labelColor=04030a&color=FF0055" alt="Threat Elevated"/>
+  <img src="https://img.shields.io/badge/UPLINK-STABLE-04030a?style=flat-square&labelColor=071e36&color=935b95" alt="Uplink Stable"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_OPERATOR_DOSSIER-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Operator Dossier"/>
+</p>
 
 Offensive security engineer at **NetPhantom Security** and **Senior Security Analyst II** at Aylo — application pentesting, adversary simulation, identity abuse, and trust-boundary failures across web, API, Active Directory, network infrastructure, agentic AI, and RF/physical security.
 
@@ -76,12 +81,17 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 
 > `> OUTPUT:` I don't hand you a tool dump. I tell you what breaks, why it matters, and what to fix first.
 
-<pre>
-SIGNAL: ████████░░ 80%   THREAT: ▓▓▓▓▓▓▓░░░ ELEVATED   UPLINK: STABLE
-╔══ ENGAGEMENT TIMELINE ═════════════════════╗
-║  ▷ engagement history · operator timeline  ║
-╚════════════════════════════════════════════╝
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/SIGNAL-80%25-04030a?style=flat-square&labelColor=071e36&color=00E5FF" alt="Signal 80%"/>
+  <img src="https://img.shields.io/badge/THREAT-ELEVATED-071e36?style=flat-square&labelColor=04030a&color=FF0055" alt="Threat Elevated"/>
+  <img src="https://img.shields.io/badge/UPLINK-STABLE-04030a?style=flat-square&labelColor=071e36&color=935b95" alt="Uplink Stable"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_ENGAGEMENT_TIMELINE-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Engagement Timeline"/>
+</p>
+
+<div align="center">
 
 | Period | Role | Focus |
 | --- | --- | --- |
@@ -89,13 +99,15 @@ SIGNAL: ████████░░ 80%   THREAT: ▓▓▓▓▓▓▓░░
 | **Dec 2024 – Jul 2025** | Penetration Tester · **Various Clients** | Web, REST APIs, internal infra, hybrid environments — attack-path chaining over isolated findings. Burp, Nmap, Metasploit, Nuclei, Impacket, NetExec, Sliver, Cobalt Strike. Custom tooling, executive + technical reports. |
 | **Jun 2020 – Oct 2022** | Resident Engineer · **Radware Canada** | Enterprise network security, incident response, DefensePro. Wireshark analysis, DDoS telemetry, security policy design and tuning. |
 
-<pre>
-╔═ ◈ ARSENAL ══════════════════════════════════╗
-║  ▷ tradecraft · tooling · attack surfaces    ║
-╚══════════════════════════════════════════════╝
-</pre>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_ARSENAL-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Arsenal"/>
+</p>
 
 **Capability readouts**
+
+<div align="center">
 
 | Domain | Load | Focus |
 | --- | --- | --- |
@@ -108,28 +120,26 @@ SIGNAL: ████████░░ 80%   THREAT: ▓▓▓▓▓▓▓░░
 | **RF / Physical** | ▰▰▰▰▰▰▰▰▱▱ 86% | RFID, NFC, Wi-Fi, BLE, Zigbee, LoRa, LTE, covert entry, wireless trust-boundary abuse |
 | **Operations** | ▰▰▰▰▰▰▰▰▰▱ 92% | ~2K findings/year triage & retest, bug-bounty program alignment, executive risk framing, blue-team collaboration, binary/CTF tradecraft |
 
-<pre>
-┌─ // NEON STACK ──────────────────────────────┐
-│  ◈ languages · platforms · runtime           │
-└──────────────────────────────────────────────┘
-</pre>
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,bash,linux,docker,kali,git,neovim,vscode,wireshark,nginx&theme=dark&perline=12" alt="Neon stack icons"/>
+  <img src="https://img.shields.io/badge/◈_NEON_STACK-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Neon Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,go,bash,linux,docker,kali,git,neovim,vscode,wireshark,nginx&theme=dark&perline=12&align=center" alt="Neon stack icons"/>
 </p>
 
 <p align="center">
   <img src="https://tech-stack.wontory.dev/api/orbit?text=z3r0&slugs=python,rust,go,gnubash,linux,docker,kalilinux,git" alt="Animated tech stack orbit"/>
 </p>
 
-<pre>
-┌─ // OFFENSIVE TOOLKIT ───────────────────────┐
-│  ▷ deployed · tested · chain-ready           │
-└──────────────────────────────────────────────┘
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_OFFENSIVE_TOOLKIT-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Offensive Toolkit"/>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,metasploit,nmap,wireshark,neovim,git,docker,kali&theme=dark&perline=8" alt="Offensive toolkit icons"/>
+  <img src="https://skillicons.dev/icons?i=burpsuite,metasploit,nmap,wireshark,neovim,git,docker,kali&theme=dark&perline=8&align=center" alt="Offensive toolkit icons"/>
 </p>
 
 <p align="center">
@@ -145,11 +155,11 @@ SIGNAL: ████████░░ 80%   THREAT: ▓▓▓▓▓▓▓░░
   <img src="https://img.shields.io/badge/Cobalt_Strike-071e36?style=for-the-badge&logo=target&logoColor=FF0055&labelColor=04030a" alt="Cobalt Strike"/>
 </p>
 
-<pre>
-┌─ ◈ SPEAKING & RESEARCH ──────────────────────┐
-│  ▷ stage · research · hostile airspace       │
-└──────────────────────────────────────────────┘
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_SPEAKING_%26_RESEARCH-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Speaking & Research"/>
+</p>
+
+<div align="center">
 
 | Event | Talk |
 | --- | --- |
@@ -157,17 +167,19 @@ SIGNAL: ████████░░ 80%   THREAT: ▓▓▓▓▓▓▓░░
 | **RockaLockaBangBang / Sparrows Lock Picks 2026** | "Hostile Airspace: RFID, NFC, Bluetooth, Wi-Fi, RF threats" |
 | **BSides Montreal 2023** | "Introduction to Binary Exploitation Using Pwntools" |
 
-<pre>
-╔═ ◈ COMPETITIONS ═════════════════════════════╗
-║  ▷ global finals · attack/defend · ranked    ║
-╚══════════════════════════════════════════════╝
-</pre>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_COMPETITIONS-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Competitions"/>
+</p>
 
 **InfiniteCTF 2025 Main Event** · [Red Team Association](https://redteamassociation.com/ctf.html) · Attack/Defend · Nov 2025
 
 Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global finals · 7 custom services · 44 operators
 
-<pre>
+<div align="center">
+
+<pre align="center">
               ╭─────────╮
          ┌────┤ ◈ RADAR ├────┐
          │    ╰─────────╯    │
@@ -195,31 +207,31 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 | **🥈 2** | **◈ DCG-SATX ◈** | **60,830** |
 | 3 | UnderTheCloud | 55,000 |
 
-<pre>
-┌─ // OFFICIAL LEADERBOARD ─────────────────────┐
-│  ▷ Source: redteamassociation.com/ctf.html   │
-└──────────────────────────────────────────────┘
-</pre>
+</div>
 
-<pre>
-┌─ ◈ CREDENTIALS ──────────────────────────────┐
-│  ▷ verified · coursework · dean's list       │
-└──────────────────────────────────────────────┘
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_OFFICIAL_LEADERBOARD-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Official Leaderboard"/>
+</p>
 
-[![PNPT](https://img.shields.io/badge/PNPT-TCM_Security-04030a?style=flat-square&logo=acclaim&logoColor=97d2e6&labelColor=071e36)](https://github.com/TheRedTerror)
-[![PWPP](https://img.shields.io/badge/PWPP-TCM_Security-071e36?style=flat-square&logo=acclaim&logoColor=00E5FF&labelColor=04030a)](https://github.com/TheRedTerror)
-[![eJPT](https://img.shields.io/badge/eJPT-eLearnSecurity-04030a?style=flat-square&logo=acclaim&logoColor=FF0055&labelColor=071e36)](https://github.com/TheRedTerror)
-[![CRTO](https://img.shields.io/badge/CRTO-coursework_2024-071e36?style=flat-square&logo=acclaim&logoColor=935b95&labelColor=04030a)](https://github.com/TheRedTerror)
-[![CPEH](https://img.shields.io/badge/CPEH-coursework_2024-04030a?style=flat-square&logo=acclaim&logoColor=97d2e6&labelColor=071e36)](https://github.com/TheRedTerror)
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_CREDENTIALS-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Credentials"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TheRedTerror"><img src="https://img.shields.io/badge/PNPT-TCM_Security-04030a?style=flat-square&logo=acclaim&logoColor=97d2e6&labelColor=071e36" alt="PNPT"/></a>
+  <a href="https://github.com/TheRedTerror"><img src="https://img.shields.io/badge/PWPP-TCM_Security-071e36?style=flat-square&logo=acclaim&logoColor=00E5FF&labelColor=04030a" alt="PWPP"/></a>
+  <a href="https://github.com/TheRedTerror"><img src="https://img.shields.io/badge/eJPT-eLearnSecurity-04030a?style=flat-square&logo=acclaim&logoColor=FF0055&labelColor=071e36" alt="eJPT"/></a>
+  <a href="https://github.com/TheRedTerror"><img src="https://img.shields.io/badge/CRTO-coursework_2024-071e36?style=flat-square&logo=acclaim&logoColor=935b95&labelColor=04030a" alt="CRTO"/></a>
+  <a href="https://github.com/TheRedTerror"><img src="https://img.shields.io/badge/CPEH-coursework_2024-04030a?style=flat-square&logo=acclaim&logoColor=97d2e6&labelColor=071e36" alt="CPEH"/></a>
+</p>
 
 **Education:** Advanced Diploma, Cyber Security · Fanshawe College (2021) · Dean's List semesters 4–6
 
-<pre>
-┌─ ◈ SELECTED WORK ────────────────────────────┐
-│  ▷ repos · research · operator tooling       │
-└──────────────────────────────────────────────┘
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_SELECTED_WORK-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Selected Work"/>
+</p>
+
+<div align="center">
 
 | Repository | Notes |
 | --- | --- |
@@ -229,13 +241,17 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 | [**it-depends**](https://github.com/TheRedTerror/it-depends) | Fork — automated dependency graphs & SBOM generation for source repos and packages |
 | [**Portfolio**](https://github.com/TheRedTerror/Portfolio) | Personal portfolio site (in progress) |
 
-<pre>
-┌─ // HACK THE BOX ──────────────────────────────┐
-│  ▷ lab telemetry · rank · ownership readout    │
-└──────────────────────────────────────────────┘
-</pre>
+</div>
 
-[![Hack The Box](https://www.hackthebox.com/badge/image/213257)](https://app.hackthebox.com/users/213257)
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_HACK_THE_BOX-04030a?style=for-the-badge&labelColor=071e36&color=9FEF00" alt="Hack The Box"/>
+</p>
+
+<div align="center">
+
+<p align="center">
+  <a href="https://app.hackthebox.com/users/213257"><img src="https://www.hackthebox.com/badge/image/213257" alt="Hack The Box"/></a>
+</p>
 
 <p align="center">
   <a href="https://app.hackthebox.com/users/213257"><img src="https://img.shields.io/badge/Hack_The_Box-NetPhantomSecZ3r0-04030a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=071e36" alt="Hack The Box profile"/></a>
@@ -252,26 +268,26 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 | **Owns** | 7 |
 | **Bloods** | 0 |
 
+</div>
+
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════╗
-║         ◈  O P E R A T O R  M E T R I C S  ◈         ║
-╚══════════════════════════════════════════════╝
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_OPERATOR_METRICS-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Operator Metrics"/>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRedTerror&theme=2077" alt="GitHub stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=TheRedTerror&theme=react&hide_border=true&background=04030a&ring=00E5FF&fire=FF0055&currStreakLabel=00E5FF&sideLabels=935b95&dates=97d2e6&border_radius=10" alt="GitHub streak" height="165"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRedTerror&theme=2077" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=TheRedTerror&theme=react&hide_border=true&background=04030a&ring=00E5FF&fire=FF0055&currStreakLabel=00E5FF&sideLabels=935b95&dates=97d2e6&border_radius=10" alt="GitHub streak" height="165"/>
+</p>
 
-<pre>
-┌─ ◈ CONNECT ──────────────────────────────────┐
-│  ▷ firm · team · engagements · signal        │
-└──────────────────────────────────────────────┘
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_CONNECT-04030a?style=for-the-badge&labelColor=071e36&color=00E5FF" alt="Connect"/>
+</p>
 
-**Firm** · [netphantomsecurity.com](https://netphantomsecurity.com/) · **Team** · [NetPhantom — Z3r0](https://netphantomsecurity.com/team/) · **Engagements** · [Contact](https://netphantomsecurity.com/contact/)
+<p align="center"><strong>Firm</strong> · <a href="https://netphantomsecurity.com/">netphantomsecurity.com</a> · <strong>Team</strong> · <a href="https://netphantomsecurity.com/team/">NetPhantom — Z3r0</a> · <strong>Engagements</strong> · <a href="https://netphantomsecurity.com/contact/">Contact</a></p>
 
-<pre>
+<pre align="center">
 ╔══════════════════════════════════════════════╗
 ║  ◈ END TRANSMISSION ◈  ·  NETPHANTOM         ║
 ║  ▷ adversarial mindset · decision-grade insight ║
@@ -287,7 +303,9 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 [SYS] ░▒▓ CHANNEL CLOSED ▓▒░
 </pre>
 
-<img src="https://komarev.com/ghpvc/?username=TheRedTerror&color=00E5FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheRedTerror&color=00E5FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:300412,35:935b95,65:071e36,100:04030a&height=90&section=footer&fontSize=12&fontColor=00E5FF&animation=fadeIn" alt="footer"/>
 
