@@ -74,6 +74,30 @@ I chain vulnerabilities into realistic attack paths rather than delivering isola
 | **RF / Physical** | RFID, NFC, Wi-Fi, BLE, Zigbee, LoRa, LTE, covert entry, physical-security testing |
 
 <p align="center">
+  <img src="https://img.shields.io/badge/▸_OPERATOR_SIGNALS-935b95?style=for-the-badge&labelColor=071e36" alt="Operator Signals"/>
+</p>
+
+<pre>
+┌─ // INFERRED FROM ACTIVE ENGAGEMENTS ─────────────────────────────┐
+│  Regular work — not always headline on the resume, but in scope.     │
+└──────────────────────────────────────────────────────────────────────┘
+</pre>
+
+| Signal | Inferred focus |
+| --- | --- |
+| **Identity & sessions** | Session management abuse, OAuth/OIDC flows, federation trust failures |
+| **Enterprise post-ex** | Privilege escalation, credential harvesting, persistence in AD chains |
+| **Hybrid environments** | Cloud-adjacent testing, internal pivoting, tunneling across trust zones |
+| **Vuln management** | ~2K findings/year triage, retest validation, secure SDLC partnership |
+| **Bug bounty ops** | Program-aligned testing, responsible disclosure, payout-risk reduction |
+| **Reporting & risk** | Executive risk framing, remediation prioritization, fix validation |
+| **Defense-aware ops** | DDoS IR, rate limiting, attack-surface reduction, blue-team collaboration |
+| **Binary & CTF** | Memory corruption, pwntools exploitation, CTF platform tradecraft |
+| **Threat-informed red** | Adversary emulation, deception-aware scenarios, intel-driven test design |
+| **RF & physical** | Wireless trust-boundary abuse, lock bypass, access-control bypass research |
+| **LLM offensive** | LLM red teaming, prompt-injection chains, RAG and agent abuse validation |
+
+<p align="center">
   <img src="https://img.shields.io/badge/▸_SPEAKING_%26_RESEARCH-935b95?style=for-the-badge&labelColor=04030a" alt="Speaking & Research"/>
 </p>
 
