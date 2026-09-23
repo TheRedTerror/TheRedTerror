@@ -1,24 +1,41 @@
 <div align="center">
 
-<img src="https://github.com/TheRedTerror.png" width="120" alt="z3r0 avatar"/>
-
 <pre>
- ░▒▓█ z3r0 █▓▒░     ◈ NETPHANTOM ◈
- ╔═╗ ╔═╗ ╔═╗ ╔═╗    OPERATOR DOSSIER
- ║z ║ ║3 ║ ║r ║ ║0 ║   RF · AD · AI · RF
+ ░▒▓█ z3r0 █▓▒░     ◈ NETPHANTOM ◈     ▓░▓ CYBERDECK v3.0 ▓░▓
+ ╔═╗ ╔═╗ ╔═╗ ╔═╗    OPERATOR DOSSIER · RF · AD · AI · RF
+ ║z ║ ║3 ║ ║r ║ ║0 ║    SIGNAL ████████░░ 80%  ·  THREAT ELEVATED
  ╚═╝ ╚═╝ ╚═╝ ╚═╝
 </pre>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,04030a,10,071e36,50,935b95,90,300412,100,04030a&height=6&section=header&text=%20" alt="scanline"/>
+
+<pre>
+╔══════════════════════╗
+║  ░▒▓ OPERATOR ▓▒░    ║
+╚══════════════════════╝
+</pre>
+
+<img src="https://github.com/TheRedTerror.png" width="120" alt="z3r0 avatar" style="border-radius:50%;border:3px solid #00E5FF;box-shadow:0 0 14px #00E5FF;"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04030a,20:071e36,45:935b95,70:300412,100:071e36&height=220&section=header&text=z3r0&fontSize=85&fontColor=00E5FF&animation=twinkling" alt="z3r0 header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=36&color=071e36&section=header&text=%20&fontSize=1" alt="grid layer"/>
 
 <pre>
 ╔══════════════════════════════════════════════╗
 ║  ◈ SYSTEM ONLINE ◈  ·  OPERATOR: z3r0       ║
-║     NETPHANTOM SECURITY  ·  DOSSIER v2.0     ║
+║     NETPHANTOM SECURITY  ·  DOSSIER v3.0     ║
 ╚══════════════════════════════════════════════╝
+[BOOT] netphantom.link .......... OK
+[AUTH] operator:z3r0 ............ VERIFIED
+[MODE] adversarial .............. ACTIVE
+[LINK] secure channel ........... ESTABLISHED
+[SCAN] perimeter ................ CLEAR
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Red+Team+Lead;RF+Security+Operator;Attack+Path+Architect;Adversary+Simulation+Lead&font=Fira+Code&center=true&width=620&height=55&color=00E5FF&background=04030a&vCenter=true&pause=1200&size=22" alt="Operator roles"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=SIGNAL:+STABLE+80%25;THREAT:+ELEVATED;MODE:+ADVERSARIAL;UPLINK:+STABLE&font=Fira+Code&center=true&width=480&height=28&color=935b95&background=04030a&vCenter=true&pause=900&size=13" alt="Status ticker"/>
 
 **Mitch Breton** · Penetration Tester / Red Team & Threat Intel Lead · [NetPhantom Security](https://netphantomsecurity.com/)
 
@@ -39,9 +56,10 @@ Toronto, Ontario · Remote
 </div>
 
 <pre>
-┌─ ◈ PROFILE ──────────────────────────────────┐
-│  ▷ operator identity · threat surface map    │
-└──────────────────────────────────────────────┘
+SIGNAL: ████████░░ 80%   THREAT: ▓▓▓▓▓▓▓░░░ ELEVATED   UPLINK: STABLE
+╔══ OPERATOR DOSSIER ════════════════════════╗
+║  ▷ operator identity · threat surface map  ║
+╚════════════════════════════════════════════╝
 </pre>
 
 Offensive security engineer at **NetPhantom Security** and **Senior Security Analyst II** at Aylo — application pentesting, adversary simulation, identity abuse, and trust-boundary failures across web, API, Active Directory, network infrastructure, agentic AI, and RF/physical security.
@@ -59,9 +77,10 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 > `> OUTPUT:` I don't hand you a tool dump. I tell you what breaks, why it matters, and what to fix first.
 
 <pre>
-┌─ ◈ EXPERIENCE ───────────────────────────────┐
-│  ▷ engagement history · operator timeline    │
-└──────────────────────────────────────────────┘
+SIGNAL: ████████░░ 80%   THREAT: ▓▓▓▓▓▓▓░░░ ELEVATED   UPLINK: STABLE
+╔══ ENGAGEMENT TIMELINE ═════════════════════╗
+║  ▷ engagement history · operator timeline  ║
+╚════════════════════════════════════════════╝
 </pre>
 
 | Period | Role | Focus |
@@ -76,16 +95,18 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 ╚══════════════════════════════════════════════╝
 </pre>
 
-| Domain | Focus |
-| --- | --- |
-| **Web / API** | Burp Suite, OWASP Top 10, IDOR, SQLi, XSS, CSRF, Nuclei, business-logic abuse, session/OAuth/OIDC flows |
-| **AD / Windows** | BloodHound, NetExec/CME, Impacket, Kerberos abuse, lateral movement, Evil-WinRM, Mimikatz, persistence |
-| **Network / Hybrid** | Nmap, Metasploit, Wireshark, pivoting, cloud-adjacent testing, tunneling across trust zones |
-| **Adversary simulation** | Sliver, Cobalt Strike, post-exploitation, attack-path chaining, threat-informed emulation, control bypass |
-| **Agentic AI / LLM** | OWASP LLM Top 10, MITRE ATLAS, prompt injection, RAG abuse, MAS hijacking, LLM red teaming |
-| **Automation** | Python, Bash, Go, AI-assisted offensive tooling, secrets discovery |
-| **RF / Physical** | RFID, NFC, Wi-Fi, BLE, Zigbee, LoRa, LTE, covert entry, wireless trust-boundary abuse |
-| **Operations** | ~2K findings/year triage & retest, bug-bounty program alignment, executive risk framing, blue-team collaboration, binary/CTF tradecraft |
+**Capability readouts**
+
+| Domain | Load | Focus |
+| --- | --- | --- |
+| **Web / API** | ▰▰▰▰▰▰▰▰▰▱ 95% | Burp Suite, OWASP Top 10, IDOR, SQLi, XSS, CSRF, Nuclei, business-logic abuse, session/OAuth/OIDC flows |
+| **AD / Windows** | ▰▰▰▰▰▰▰▰▱▱ 88% | BloodHound, NetExec/CME, Impacket, Kerberos abuse, lateral movement, Evil-WinRM, Mimikatz, persistence |
+| **Network / Hybrid** | ▰▰▰▰▰▰▰▱▱▱ 82% | Nmap, Metasploit, Wireshark, pivoting, cloud-adjacent testing, tunneling across trust zones |
+| **Adversary simulation** | ▰▰▰▰▰▰▰▰▱▱ 87% | Sliver, Cobalt Strike, post-exploitation, attack-path chaining, threat-informed emulation, control bypass |
+| **Agentic AI / LLM** | ▰▰▰▰▰▰▰▱▱▱ 80% | OWASP LLM Top 10, MITRE ATLAS, prompt injection, RAG abuse, MAS hijacking, LLM red teaming |
+| **Automation** | ▰▰▰▰▰▰▰▰▱▱ 85% | Python, Bash, Go, AI-assisted offensive tooling, secrets discovery |
+| **RF / Physical** | ▰▰▰▰▰▰▰▰▱▱ 86% | RFID, NFC, Wi-Fi, BLE, Zigbee, LoRa, LTE, covert entry, wireless trust-boundary abuse |
+| **Operations** | ▰▰▰▰▰▰▰▰▰▱ 92% | ~2K findings/year triage & retest, bug-bounty program alignment, executive risk framing, blue-team collaboration, binary/CTF tradecraft |
 
 <pre>
 ┌─ // NEON STACK ──────────────────────────────┐
@@ -94,7 +115,7 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 </pre>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,bash,linux,docker,kali,git&theme=dark&perline=8" alt="Python, Rust, Go, Bash, Linux, Docker, Kali, Git"/>
+  <img src="https://skillicons.dev/icons?i=python,rust,go,bash,linux,docker,kali,git,neovim,vscode,wireshark,nginx&theme=dark&perline=12" alt="Neon stack icons"/>
 </p>
 
 <p align="center">
@@ -106,6 +127,10 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 │  ▷ deployed · tested · chain-ready           │
 └──────────────────────────────────────────────┘
 </pre>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=burpsuite,metasploit,nmap,wireshark,neovim,git,docker,kali&theme=dark&perline=8" alt="Offensive toolkit icons"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-04030a?style=for-the-badge&logo=burpsuite&logoColor=00E5FF&labelColor=071e36" alt="Burp Suite"/>
@@ -122,7 +147,7 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 
 <pre>
 ┌─ ◈ SPEAKING & RESEARCH ──────────────────────┐
-│  ▷ stage · research · hostile airspace     │
+│  ▷ stage · research · hostile airspace       │
 └──────────────────────────────────────────────┘
 </pre>
 
@@ -143,17 +168,25 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global finals · 7 custom services · 44 operators
 
 <pre>
-        ┌─────────┐
-   🥇   │    1    │   GreyPuppyProblems
-        │ 121,320 │
-        └────┬────┘
-  ┌──────────┼──────────┐
-  │    🥈    │    🥉    │
-  │    2     │    3     │
-  │ DCG-SATX │UnderThe  │
-  │  60,830  │ Cloud    │
-  │  ◈ YOU ◈ │  55,000  │
-  └──────────┴──────────┘
+              ╭─────────╮
+         ┌────┤ ◈ RADAR ├────┐
+         │    ╰─────────╯    │
+         │      ┌─┐          │
+         │   ┌──┼─┼──┐       │
+         │   │  ◉ ◉  │  TARGET LOCK
+         │   └──┼─┼──┘       │
+         │      └─┘          │
+        ┌┴─────────┴┐
+   🥇   │     1     │   GreyPuppyProblems
+        │  121,320  │
+        └─────┬─────┘
+  ┌───────────┼───────────┐
+  │    🥈     │    🥉     │
+  │     2     │     3     │
+  │  DCG-SATX │ UnderThe  │
+  │   60,830  │  Cloud    │
+  │  ◈ YOU ◈  │  55,000   │
+  └───────────┴───────────┘
 </pre>
 
 | Rank | Team | Points |
@@ -204,12 +237,16 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 ╚══════════════════════════════════════════════╝
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheRedTerror&show_icons=true&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&text_color=935b95&icon_color=FF0055&border_radius=10" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheRedTerror&show_icons=true&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&text_color=935b95&icon_color=FF0055&rank_icon=percentile&border_radius=10" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheRedTerror&layout=compact&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&text_color=935b95&langs_count=8&border_radius=10" alt="Top languages" height="165"/>
+
 <img src="https://streak-stats.demolab.com/?user=TheRedTerror&theme=react&hide_border=true&background=04030a&ring=00E5FF&fire=FF0055&currStreakLabel=00E5FF&sideLabels=935b95&dates=97d2e6&border_radius=10" alt="GitHub streak" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRedTerror&theme=2077" alt="Profile stats" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRedTerror&bg_color=04030a&color=00E5FF&line=FF0055&point=935b95&area=true&hide_border=true" alt="Activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheRedTerror&theme=2077&utcOffset=-5" alt="Productive time"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TheRedTerror&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub trophies"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TheRedTerror&repo=papa-prep-kit&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&border_radius=10" alt="papa-prep-kit spotlight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TheRedTerror&repo=MysticalCTF&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&border_radius=10" alt="MysticalCTF spotlight"/>
 
 <pre>
 ┌─ ◈ CONNECT ──────────────────────────────────┐
@@ -229,6 +266,10 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 ║  we're chasing you.                          ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
+[SYS] disconnecting secure channel...
+[SYS] wiping session tokens......... OK
+[SYS] trace cleared. stay dark.
+[SYS] ░▒▓ CHANNEL CLOSED ▓▒░
 </pre>
 
 <img src="https://komarev.com/ghpvc/?username=TheRedTerror&color=00E5FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
