@@ -111,7 +111,61 @@ I chain vulnerabilities into realistic attack paths rather than delivering isola
   <img src="https://img.shields.io/badge/▸_STACK_%26_INTERESTS-97d2e6?style=for-the-badge&labelColor=071e36" alt="Stack & Interests"/>
 </p>
 
-`Python` · `Rust` · `Bash` · `Go` · `Burp Suite` · `Metasploit` · `Impacket` · `Nuclei` · `BloodHound` · `NetExec` · `Sliver` · `Cobalt Strike` · `Wireshark` · `RF security` · `agentic AI security` · `OWASP LLM Top 10` · `MITRE ATLAS` · `CTF platforms` · `SBOM` · `threat intel` · `red team`
+**Languages & Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,go,bash,linux,docker,kali,git&theme=dark&perline=8" alt="Python, Rust, Go, Bash, Linux, Docker, Kali, Git"/>
+</p>
+
+**Focus Areas**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/agentic_AI_security-04030a?style=for-the-badge&logo=openai&logoColor=00E5FF&labelColor=071e36" alt="Agentic AI security"/>
+  <img src="https://img.shields.io/badge/OWASP_LLM_Top_10-071e36?style=for-the-badge&logo=owasp&logoColor=FF0055&labelColor=04030a" alt="OWASP LLM Top 10"/>
+  <img src="https://img.shields.io/badge/MITRE_ATLAS-04030a?style=for-the-badge&logo=mitre&logoColor=935b95&labelColor=071e36" alt="MITRE ATLAS"/>
+  <img src="https://img.shields.io/badge/CTF_platforms-071e36?style=for-the-badge&logo=flag&logoColor=00E5FF&labelColor=04030a" alt="CTF platforms"/>
+  <img src="https://img.shields.io/badge/SBOM-04030a?style=for-the-badge&logo=cyclonedx&logoColor=97d2e6&labelColor=071e36" alt="SBOM"/>
+  <img src="https://img.shields.io/badge/threat_intel-071e36?style=for-the-badge&logo=virustotal&logoColor=FF0055&labelColor=04030a" alt="Threat intel"/>
+  <img src="https://img.shields.io/badge/red_team-04030a?style=for-the-badge&logo=target&logoColor=00E5FF&labelColor=071e36" alt="Red team"/>
+  <img src="https://img.shields.io/badge/RF_security-071e36?style=for-the-badge&logo=arduino&logoColor=935b95&labelColor=04030a" alt="RF security"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/▸_ARSENAL-00E5FF?style=for-the-badge&labelColor=04030a" alt="Arsenal"/>
+</p>
+
+**Web / API**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-04030a?style=for-the-badge&logo=burpsuite&logoColor=00E5FF&labelColor=071e36" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nuclei-071e36?style=for-the-badge&logo=nuclei&logoColor=FF0055&labelColor=04030a" alt="Nuclei"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-04030a?style=for-the-badge&logo=owasp&logoColor=935b95&labelColor=071e36" alt="OWASP Top 10"/>
+</p>
+
+**AD / Windows**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BloodHound-04030a?style=for-the-badge&logo=neo4j&logoColor=00E5FF&labelColor=071e36" alt="BloodHound"/>
+  <img src="https://img.shields.io/badge/NetExec-071e36?style=for-the-badge&logo=windows&logoColor=FF0055&labelColor=04030a" alt="NetExec"/>
+  <img src="https://img.shields.io/badge/Impacket-04030a?style=for-the-badge&logo=python&logoColor=97d2e6&labelColor=071e36" alt="Impacket"/>
+  <img src="https://img.shields.io/badge/Mimikatz-071e36?style=for-the-badge&logo=windows&logoColor=935b95&labelColor=04030a" alt="Mimikatz"/>
+  <img src="https://img.shields.io/badge/Evil--WinRM-04030a?style=for-the-badge&logo=powershell&logoColor=00E5FF&labelColor=071e36" alt="Evil-WinRM"/>
+</p>
+
+**Network**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-04030a?style=for-the-badge&logo=nmap&logoColor=00E5FF&labelColor=071e36" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-071e36?style=for-the-badge&logo=metasploit&logoColor=FF0055&labelColor=04030a" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-04030a?style=for-the-badge&logo=wireshark&logoColor=97d2e6&labelColor=071e36" alt="Wireshark"/>
+</p>
+
+**Adversary Simulation**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sliver-04030a?style=for-the-badge&logo=go&logoColor=00E5FF&labelColor=071e36" alt="Sliver"/>
+  <img src="https://img.shields.io/badge/Cobalt_Strike-071e36?style=for-the-badge&logo=target&logoColor=FF0055&labelColor=04030a" alt="Cobalt Strike"/>
+</p>
 
 <div align="center">
 
