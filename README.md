@@ -1,20 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937,50:7f1d1d&height=180&section=header&text=z3r0&fontSize=72&fontColor=e5e7eb&animation=fadeIn" alt="z3r0 header"/>
+<!-- CYBERPUNK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:a855f7,100:0d0221&height=200&section=header&text=z3r0&fontSize=80&fontColor=00fff5&animation=twinkling" alt="z3r0 header"/>
+
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║  <b style="color:#00fff5">SYSTEM ONLINE</b>  ·  <b style="color:#39ff14">OPERATOR: z3r0</b>  ·  <b style="color:#ff00ff">NETPHANTOM SECURITY</b>  ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 **Red Team & Threat Intelligence Lead** · [NetPhantom Security](https://netphantomsecurity.com/)
 
-*You're not chasing shadows — we're chasing you.*
+<pre>
+┌─ <b style="color:#00fff5">// NETPHANTOM TRANSMISSION</b> ─────────────────────────────────────┐
+│  <i style="color:#a855f7">You're not chasing shadows — we're chasing you.</i>                  │
+└───────────────────────────────────────────────────────────────────┘
+</pre>
 
-[![NetPhantom Security](https://img.shields.io/badge/NetPhantom_Security-offensive_ops-111827?style=for-the-badge&logo=ghost&logoColor=dc2626)](https://netphantomsecurity.com/)
-[![Role](https://img.shields.io/badge/role-red_team_%26_threat_intel-7f1d1d?style=for-the-badge&logo=target&logoColor=e5e7eb)](https://netphantomsecurity.com/team/)
-[![Operator](https://img.shields.io/badge/mindset-adversarial-374151?style=for-the-badge&logo=security&logoColor=dc2626)](https://netphantomsecurity.com/)
+[![NetPhantom Security](https://img.shields.io/badge/NetPhantom_Security-offensive_ops-0a0a0f?style=for-the-badge&logo=ghost&logoColor=00fff5&labelColor=0d0221)](https://netphantomsecurity.com/)
+[![Role](https://img.shields.io/badge/role-red_team_%26_threat_intel-0d0221?style=for-the-badge&logo=target&logoColor=ff00ff&labelColor=0a0a0f)](https://netphantomsecurity.com/team/)
+[![Operator](https://img.shields.io/badge/mindset-adversarial-0a0a0f?style=for-the-badge&logo=security&logoColor=39ff14&labelColor=0d0221)](https://netphantomsecurity.com/)
+[![Status](https://img.shields.io/badge/status-ACTIVE-0d0221?style=for-the-badge&logo=radar&logoColor=00fff5&labelColor=0a0a0f)](https://netphantomsecurity.com/)
 
 </div>
 
----
-
-## Operator profile
+<pre>
+═══════════════════════ <b style="color:#00fff5">OPERATOR PROFILE</b> ═══════════════════════
+</pre>
 
 Senior offensive security and threat intelligence operator at **NetPhantom Security** — a boutique firm built by operators, for operators.
 
@@ -27,11 +39,11 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 - Reporting that works for executives and engineers
 - Defensive priorities grounded in attacker behavior
 
-> Generic checklists tell you what tools ran. I tell you what breaks, why it matters, and what to fix first.
+> `> OUTPUT:` Generic checklists tell you what tools ran. I tell you what breaks, why it matters, and what to fix first.
 
----
-
-## Capabilities
+<pre>
+═══════════════════════ <b style="color:#ff00ff">CAPABILITIES</b> ═══════════════════════════
+</pre>
 
 | Domain | Focus |
 | --- | --- |
@@ -41,9 +53,9 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 | **Exploit development** | Custom tooling and techniques for authorized testing |
 | **OpSec** | Tradecraft and secure comms for high-risk operator work |
 
----
-
-## Selected work
+<pre>
+═══════════════════════ <b style="color:#a855f7">SELECTED WORK</b> ══════════════════════════
+</pre>
 
 | Repository | Notes |
 | --- | --- |
@@ -53,24 +65,22 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 | [**it-depends**](https://github.com/TheRedTerror/it-depends) | Dependency graphs & SBOM generation |
 | [**Portfolio**](https://github.com/TheRedTerror/Portfolio) | Project portfolio site |
 
----
-
-## Stack & interests
+<pre>
+═══════════════════════ <b style="color:#39ff14">STACK & INTERESTS</b> ═════════════════════
+</pre>
 
 `red teaming` · `threat intelligence` · `APT tradecraft` · `Rust` · `Python` · `agentic AI security` · `CTF` · `exploit dev` · `deception` · `evidence-first reporting`
 
----
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheRedTerror&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=dc2626" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRedTerror&theme=radical&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=6B7280" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheRedTerror&show_icons=true&theme=react&hide_border=true&bg_color=0a0a0f&title_color=00fff5&text_color=a855f7&icon_color=ff00ff&border_radius=10" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRedTerror&theme=react&hide_border=true&background=0a0a0f&ring=00fff5&fire=ff00ff&currStreakLabel=00fff5&sideLabels=a855f7&dates=39ff14&border_radius=10" alt="GitHub streak" height="165"/>
 
 </div>
 
----
-
-## Connect
+<pre>
+═══════════════════════ <b style="color:#00fff5">CONNECT</b> ════════════════════════════════
+</pre>
 
 - **Firm:** [netphantomsecurity.com](https://netphantomsecurity.com/)
 - **Team / bio:** [NetPhantom — Z3r0](https://netphantomsecurity.com/team/)
@@ -78,6 +88,13 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 
 <div align="center">
 
-<sub>NetPhantom Security · boutique offensive security · adversarial mindset · decision-grade insight</sub>
+<pre>
+┌───────────────────────────────────────────────────────────────────┐
+│  <b style="color:#ff00ff">NetPhantom Security</b>  ·  boutique offensive security             │
+│  <b style="color:#00fff5">adversarial mindset</b>  ·  <b style="color:#39ff14">decision-grade insight</b>                │
+└───────────────────────────────────────────────────────────────────┘
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:a855f7,100:0a0a0f&height=80&section=footer&fontSize=12&fontColor=00fff5&animation=fadeIn" alt="footer"/>
 
 </div>

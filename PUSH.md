@@ -55,7 +55,7 @@ On https://github.com/TheRedTerror, click **Customize your pins** and consider:
 
 ## 5. Optional polish
 
-- **Profile picture:** NetPhantom / operator-themed avatar (dark palette, red accent)
+- **Profile picture:** NetPhantom / operator-themed avatar (void-dark palette, neon cyan/magenta accents)
 - **Social preview:** Settings → General → Social preview → upload 1280×640 banner with NetPhantom + z3r0 branding
 - **Banner image:** Replace the capsule-render header in `README.md` with a custom `assets/banner.png` hosted in this repo once you have artwork
 - **Install `gh` CLI** (optional): `sudo apt install gh && gh auth login` for future profile updates from the terminal
@@ -63,5 +63,6 @@ On https://github.com/TheRedTerror, click **Customize your pins** and consider:
 ## Brand reference
 
 - Tagline: *You're not chasing shadows; We're chasing you.*
-- Palette: `#0d1117` / `#111827` backgrounds, `#dc2626` accent, `#e5e7eb` text
+- Palette (cyberpunk): `#0a0a0f` / `#0d0221` void backgrounds · `#00fff5` cyan · `#ff00ff` magenta · `#a855f7` electric purple · `#39ff14` neon green
 - Voice: operator, evidence-first, adversarial mindset — aligned with [NetPhantom team bio](https://netphantomsecurity.com/team/)
+- Aesthetic: terminal/hacker, glitch-neon, SYSTEM ONLINE operator vibe
