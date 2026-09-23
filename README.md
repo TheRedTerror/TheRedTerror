@@ -5,15 +5,17 @@
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════╗
-║  <b style="color:#00fff5">SYSTEM ONLINE</b>  ·  <b style="color:#39ff14">OPERATOR: z3r0</b>  ·  <b style="color:#ff00ff">NETPHANTOM SECURITY</b>  ║
+║  ◈ SYSTEM ONLINE ◈  ·  OPERATOR: z3r0  ·  NETPHANTOM SECURITY  ║
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
+
+<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Red+Team+%7C+Threat+Intel+%7C+Adversary+Simulation&font=Fira+Code&center=true&width=600&height=50&color=00fff5&background=0a0a0f&vCenter=true" alt="Typing animation"/>
 
 **Red Team & Threat Intelligence Lead** · [NetPhantom Security](https://netphantomsecurity.com/)
 
 <pre>
-┌─ <b style="color:#00fff5">// NETPHANTOM TRANSMISSION</b> ─────────────────────────────────────┐
-│  <i style="color:#a855f7">You're not chasing shadows — we're chasing you.</i>                  │
+┌─ // NETPHANTOM TRANSMISSION ─────────────────────────────────────┐
+│  ▷ You're not chasing shadows — we're chasing you.               │
 └───────────────────────────────────────────────────────────────────┘
 </pre>
 
@@ -24,9 +26,9 @@
 
 </div>
 
-<pre>
-═══════════════════════ <b style="color:#00fff5">OPERATOR PROFILE</b> ═══════════════════════
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/▸_OPERATOR_PROFILE-00fff5?style=for-the-badge&labelColor=0a0a0f" alt="Operator Profile"/>
+</p>
 
 Senior offensive security and threat intelligence operator at **NetPhantom Security** — a boutique firm built by operators, for operators.
 
@@ -41,9 +43,9 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 
 > `> OUTPUT:` Generic checklists tell you what tools ran. I tell you what breaks, why it matters, and what to fix first.
 
-<pre>
-═══════════════════════ <b style="color:#ff00ff">CAPABILITIES</b> ═══════════════════════════
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/▸_CAPABILITIES-ff00ff?style=for-the-badge&labelColor=0d0221" alt="Capabilities"/>
+</p>
 
 | Domain | Focus |
 | --- | --- |
@@ -53,9 +55,9 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 | **Exploit development** | Custom tooling and techniques for authorized testing |
 | **OpSec** | Tradecraft and secure comms for high-risk operator work |
 
-<pre>
-═══════════════════════ <b style="color:#a855f7">SELECTED WORK</b> ══════════════════════════
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/▸_SELECTED_WORK-a855f7?style=for-the-badge&labelColor=0a0a0f" alt="Selected Work"/>
+</p>
 
 | Repository | Notes |
 | --- | --- |
@@ -65,9 +67,9 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 | [**it-depends**](https://github.com/TheRedTerror/it-depends) | Dependency graphs & SBOM generation |
 | [**Portfolio**](https://github.com/TheRedTerror/Portfolio) | Project portfolio site |
 
-<pre>
-═══════════════════════ <b style="color:#39ff14">STACK & INTERESTS</b> ═════════════════════
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/▸_STACK_%26_INTERESTS-39ff14?style=for-the-badge&labelColor=0d0221" alt="Stack & Interests"/>
+</p>
 
 `red teaming` · `threat intelligence` · `APT tradecraft` · `Rust` · `Python` · `agentic AI security` · `CTF` · `exploit dev` · `deception` · `evidence-first reporting`
 
@@ -78,9 +80,9 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 
 </div>
 
-<pre>
-═══════════════════════ <b style="color:#00fff5">CONNECT</b> ════════════════════════════════
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/▸_CONNECT-00fff5?style=for-the-badge&labelColor=0a0a0f" alt="Connect"/>
+</p>
 
 - **Firm:** [netphantomsecurity.com](https://netphantomsecurity.com/)
 - **Team / bio:** [NetPhantom — Z3r0](https://netphantomsecurity.com/team/)
@@ -90,8 +92,8 @@ I work from the adversary's perspective: real-world simulation, APT-focused anal
 
 <pre>
 ┌───────────────────────────────────────────────────────────────────┐
-│  <b style="color:#ff00ff">NetPhantom Security</b>  ·  boutique offensive security             │
-│  <b style="color:#00fff5">adversarial mindset</b>  ·  <b style="color:#39ff14">decision-grade insight</b>                │
+│  ◈ NetPhantom Security ◈  ·  boutique offensive security        │
+│  ▷ adversarial mindset  ·  ▷ decision-grade insight               │
 └───────────────────────────────────────────────────────────────────┘
 </pre>
 
