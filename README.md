@@ -105,6 +105,26 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 | **BSides Montreal 2023** | "Introduction to Binary Exploitation Using Pwntools" |
 
 <pre>
+// ── COMPETITIONS ──────────────────────────────
+</pre>
+
+**InfiniteCTF 2025 Main Event** · [Red Team Association](https://redteamassociation.com/ctf.html) · Attack/Defend · Nov 2025
+
+Member of **DCG-SATX** — **2nd place** (60,830 pts) · 10-team global finals · 7 custom services · 44 operators
+
+| Rank | Team | Points |
+| --- | --- | --- |
+| 1 | GreyPuppyProblems | 121,320 |
+| 2 | **DCG-SATX** | **60,830** |
+| 3 | UnderTheCloud | 55,000 |
+
+<pre>
+┌─ // OFFICIAL LEADERBOARD ─────────────────────┐
+│  ▷ Source: redteamassociation.com/ctf.html   │
+└──────────────────────────────────────────────┘
+</pre>
+
+<pre>
 // ── CREDENTIALS ───────────────────────────────
 </pre>
 
