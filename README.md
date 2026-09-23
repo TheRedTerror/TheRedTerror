@@ -229,6 +229,29 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 | [**it-depends**](https://github.com/TheRedTerror/it-depends) | Fork — automated dependency graphs & SBOM generation for source repos and packages |
 | [**Portfolio**](https://github.com/TheRedTerror/Portfolio) | Personal portfolio site (in progress) |
 
+<pre>
+┌─ // HACK THE BOX ──────────────────────────────┐
+│  ▷ lab telemetry · rank · ownership readout    │
+└──────────────────────────────────────────────┘
+</pre>
+
+[![Hack The Box](https://www.hackthebox.com/badge/image/213257)](https://app.hackthebox.com/users/213257)
+
+<p align="center">
+  <a href="https://app.hackthebox.com/users/213257"><img src="https://img.shields.io/badge/Hack_The_Box-NetPhantomSecZ3r0-04030a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=071e36" alt="Hack The Box profile"/></a>
+  <img src="https://img.shields.io/badge/Rank-1002-071e36?style=flat-square&logo=hackthebox&logoColor=00E5FF&labelColor=04030a" alt="HTB global rank"/>
+  <img src="https://img.shields.io/badge/Owns-7-04030a?style=flat-square&logo=hackthebox&logoColor=FF0055&labelColor=071e36" alt="HTB owns"/>
+  <img src="https://img.shields.io/badge/Bloods-0-071e36?style=flat-square&logo=hackthebox&logoColor=935b95&labelColor=04030a" alt="HTB bloods"/>
+</p>
+
+| Signal | Readout |
+| --- | --- |
+| **Operator** | [NetPhantomSecZ3r0](https://app.hackthebox.com/users/213257) |
+| **Level** | Hacker |
+| **Global Rank** | 1002 |
+| **Owns** | 7 |
+| **Bloods** | 0 |
+
 <div align="center">
 
 <pre>
