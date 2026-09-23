@@ -15,7 +15,7 @@
 ╚══════════════════════╝
 </pre>
 
-<img src="https://github.com/TheRedTerror.png" width="120" alt="z3r0 avatar" style="border-radius:50%;border:3px solid #00E5FF;box-shadow:0 0 14px #00E5FF;"/>
+<img src="https://github.com/TheRedTerror.png" width="120" alt="z3r0 avatar"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04030a,20:071e36,45:935b95,70:300412,100:071e36&height=220&section=header&text=z3r0&fontSize=85&fontColor=00E5FF&animation=twinkling" alt="z3r0 header"/>
 
@@ -237,16 +237,8 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 ╚══════════════════════════════════════════════╝
 </pre>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheRedTerror&show_icons=true&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&text_color=935b95&icon_color=FF0055&rank_icon=percentile&border_radius=10" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheRedTerror&layout=compact&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&text_color=935b95&langs_count=8&border_radius=10" alt="Top languages" height="165"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRedTerror&theme=2077" alt="GitHub stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=TheRedTerror&theme=react&hide_border=true&background=04030a&ring=00E5FF&fire=FF0055&currStreakLabel=00E5FF&sideLabels=935b95&dates=97d2e6&border_radius=10" alt="GitHub streak" height="165"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRedTerror&theme=2077" alt="Profile stats" height="165"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheRedTerror&theme=2077&utcOffset=-5" alt="Productive time"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TheRedTerror&repo=papa-prep-kit&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&border_radius=10" alt="papa-prep-kit spotlight"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TheRedTerror&repo=MysticalCTF&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&border_radius=10" alt="MysticalCTF spotlight"/>
 
 <pre>
 ┌─ ◈ CONNECT ──────────────────────────────────┐
@@ -254,7 +246,7 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 └──────────────────────────────────────────────┘
 </pre>
 
-**Firm** · [netphantomsecurity.com](https://netphantomsecurity.com/) · **Team** · [NetPhantom — Z3r0](https://netphantomsecurity.com/team/) · **Engagements** · [Contact](https://netphantomsecurity.com/contact/) · **LinkedIn** · [Profile](LINK)
+**Firm** · [netphantomsecurity.com](https://netphantomsecurity.com/) · **Team** · [NetPhantom — Z3r0](https://netphantomsecurity.com/team/) · **Engagements** · [Contact](https://netphantomsecurity.com/contact/)
 
 <pre>
 ╔══════════════════════════════════════════════╗
