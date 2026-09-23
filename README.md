@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:a855f7,100:0d0221&height=200&section=header&text=z3r0&fontSize=80&fontColor=00fff5&animation=twinkling" alt="z3r0 header"/>
+<img src="https://github.com/TheRedTerror.png" width="120" alt="z3r0 avatar"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071e36,50:935b95,100:300412&height=200&section=header&text=z3r0&fontSize=80&fontColor=00E5FF&animation=twinkling" alt="z3r0 header"/>
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════╗
@@ -9,7 +11,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
 
-<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Pentest+%7C+RF+Security+%7C+Threat+Intel&font=Fira+Code&center=true&width=600&height=50&color=00fff5&background=0a0a0f&vCenter=true" alt="Typing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Pentest+%7C+RF+Security+%7C+Threat+Intel&font=Fira+Code&center=true&width=600&height=50&color=00E5FF&background=04030a&vCenter=true" alt="Typing animation"/>
 
 **Mitch Breton** · Penetration Tester / Red Team & Threat Intel Lead · [NetPhantom Security](https://netphantomsecurity.com/)
 
@@ -21,16 +23,16 @@ Toronto, Ontario · Remote
 └───────────────────────────────────────────────────────────────────┘
 </pre>
 
-[![NetPhantom Security](https://img.shields.io/badge/NetPhantom_Security-offensive_ops-0a0a0f?style=for-the-badge&logo=ghost&logoColor=00fff5&labelColor=0d0221)](https://netphantomsecurity.com/)
-[![Role](https://img.shields.io/badge/role-pentester_%26_red_team_lead-0d0221?style=for-the-badge&logo=target&logoColor=ff00ff&labelColor=0a0a0f)](https://netphantomsecurity.com/team/)
-[![PNPT](https://img.shields.io/badge/PNPT-2024-0a0a0f?style=for-the-badge&logo=acclaim&logoColor=39ff14&labelColor=0d0221)](https://github.com/TheRedTerror)
-[![PWPP](https://img.shields.io/badge/PWPP-2025-0d0221?style=for-the-badge&logo=acclaim&logoColor=00fff5&labelColor=0a0a0f)](https://github.com/TheRedTerror)
-[![eJPT](https://img.shields.io/badge/eJPT-2022-0a0a0f?style=for-the-badge&logo=acclaim&logoColor=ff00ff&labelColor=0d0221)](https://github.com/TheRedTerror)
+[![NetPhantom Security](https://img.shields.io/badge/NetPhantom_Security-offensive_ops-04030a?style=for-the-badge&logo=ghost&logoColor=00E5FF&labelColor=071e36)](https://netphantomsecurity.com/)
+[![Role](https://img.shields.io/badge/role-pentester_%26_red_team_lead-071e36?style=for-the-badge&logo=target&logoColor=FF0055&labelColor=04030a)](https://netphantomsecurity.com/team/)
+[![PNPT](https://img.shields.io/badge/PNPT-2024-04030a?style=for-the-badge&logo=acclaim&logoColor=97d2e6&labelColor=071e36)](https://github.com/TheRedTerror)
+[![PWPP](https://img.shields.io/badge/PWPP-2025-071e36?style=for-the-badge&logo=acclaim&logoColor=00E5FF&labelColor=04030a)](https://github.com/TheRedTerror)
+[![eJPT](https://img.shields.io/badge/eJPT-2022-04030a?style=for-the-badge&logo=acclaim&logoColor=FF0055&labelColor=071e36)](https://github.com/TheRedTerror)
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_OPERATOR_PROFILE-00fff5?style=for-the-badge&labelColor=0a0a0f" alt="Operator Profile"/>
+  <img src="https://img.shields.io/badge/▸_OPERATOR_PROFILE-00E5FF?style=for-the-badge&labelColor=04030a" alt="Operator Profile"/>
 </p>
 
 Offensive security engineer at **NetPhantom Security** and **Senior Security Analyst II** at Aylo — focused on application pentesting, adversary simulation, exploitation, identity abuse, and trust-boundary failures across web, API, Windows/Linux, Active Directory, network infrastructure, threat intelligence, and RF/physical security.
@@ -48,7 +50,7 @@ I chain vulnerabilities into realistic attack paths rather than delivering isola
 > `> OUTPUT:` I don't hand you a tool dump. I tell you what breaks, why it matters, and what to fix first.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_EXPERIENCE-ff00ff?style=for-the-badge&labelColor=0d0221" alt="Experience"/>
+  <img src="https://img.shields.io/badge/▸_EXPERIENCE-FF0055?style=for-the-badge&labelColor=071e36" alt="Experience"/>
 </p>
 
 | Period | Role | Focus |
@@ -58,7 +60,7 @@ I chain vulnerabilities into realistic attack paths rather than delivering isola
 | **Jun 2020 – Oct 2022** | Resident Engineer · **Radware Canada** | Enterprise network security, incident response, DefensePro. Wireshark analysis, DDoS telemetry, security policy design and tuning. |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_CAPABILITIES-ff00ff?style=for-the-badge&labelColor=0d0221" alt="Capabilities"/>
+  <img src="https://img.shields.io/badge/▸_CAPABILITIES-FF0055?style=for-the-badge&labelColor=071e36" alt="Capabilities"/>
 </p>
 
 | Domain | Focus |
@@ -72,7 +74,7 @@ I chain vulnerabilities into realistic attack paths rather than delivering isola
 | **RF / Physical** | RFID, NFC, Wi-Fi, BLE, Zigbee, LoRa, LTE, covert entry, physical-security testing |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_SPEAKING_%26_RESEARCH-a855f7?style=for-the-badge&labelColor=0a0a0f" alt="Speaking & Research"/>
+  <img src="https://img.shields.io/badge/▸_SPEAKING_%26_RESEARCH-935b95?style=for-the-badge&labelColor=04030a" alt="Speaking & Research"/>
 </p>
 
 | Event | Talk |
@@ -82,19 +84,19 @@ I chain vulnerabilities into realistic attack paths rather than delivering isola
 | **BSides Montreal 2023** | "Introduction to Binary Exploitation Using Pwntools" |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_CERTIFICATIONS-39ff14?style=for-the-badge&labelColor=0d0221" alt="Certifications"/>
+  <img src="https://img.shields.io/badge/▸_CERTIFICATIONS-97d2e6?style=for-the-badge&labelColor=071e36" alt="Certifications"/>
 </p>
 
-[![PNPT](https://img.shields.io/badge/PNPT-TCM_Security-0a0a0f?style=flat-square&logo=acclaim&logoColor=39ff14&labelColor=0d0221)](https://github.com/TheRedTerror)
-[![PWPP](https://img.shields.io/badge/PWPP-TCM_Security-0d0221?style=flat-square&logo=acclaim&logoColor=00fff5&labelColor=0a0a0f)](https://github.com/TheRedTerror)
-[![eJPT](https://img.shields.io/badge/eJPT-eLearnSecurity-0a0a0f?style=flat-square&logo=acclaim&logoColor=ff00ff&labelColor=0d0221)](https://github.com/TheRedTerror)
-[![CRTO](https://img.shields.io/badge/CRTO-coursework_2024-0d0221?style=flat-square&logo=acclaim&logoColor=a855f7&labelColor=0a0a0f)](https://github.com/TheRedTerror)
-[![CPEH](https://img.shields.io/badge/CPEH-coursework_2024-0a0a0f?style=flat-square&logo=acclaim&logoColor=39ff14&labelColor=0d0221)](https://github.com/TheRedTerror)
+[![PNPT](https://img.shields.io/badge/PNPT-TCM_Security-04030a?style=flat-square&logo=acclaim&logoColor=97d2e6&labelColor=071e36)](https://github.com/TheRedTerror)
+[![PWPP](https://img.shields.io/badge/PWPP-TCM_Security-071e36?style=flat-square&logo=acclaim&logoColor=00E5FF&labelColor=04030a)](https://github.com/TheRedTerror)
+[![eJPT](https://img.shields.io/badge/eJPT-eLearnSecurity-04030a?style=flat-square&logo=acclaim&logoColor=FF0055&labelColor=071e36)](https://github.com/TheRedTerror)
+[![CRTO](https://img.shields.io/badge/CRTO-coursework_2024-071e36?style=flat-square&logo=acclaim&logoColor=935b95&labelColor=04030a)](https://github.com/TheRedTerror)
+[![CPEH](https://img.shields.io/badge/CPEH-coursework_2024-04030a?style=flat-square&logo=acclaim&logoColor=97d2e6&labelColor=071e36)](https://github.com/TheRedTerror)
 
 **Education:** Advanced Diploma, Cyber Security · Fanshawe College (2021) · Dean's List semesters 4–6
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_SELECTED_WORK-a855f7?style=for-the-badge&labelColor=0a0a0f" alt="Selected Work"/>
+  <img src="https://img.shields.io/badge/▸_SELECTED_WORK-935b95?style=for-the-badge&labelColor=04030a" alt="Selected Work"/>
 </p>
 
 | Repository | Notes |
@@ -106,20 +108,20 @@ I chain vulnerabilities into realistic attack paths rather than delivering isola
 | [**Portfolio**](https://github.com/TheRedTerror/Portfolio) | Personal portfolio site (in progress) |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_STACK_%26_INTERESTS-39ff14?style=for-the-badge&labelColor=0d0221" alt="Stack & Interests"/>
+  <img src="https://img.shields.io/badge/▸_STACK_%26_INTERESTS-97d2e6?style=for-the-badge&labelColor=071e36" alt="Stack & Interests"/>
 </p>
 
 `Python` · `Rust` · `Bash` · `Go` · `Burp Suite` · `Metasploit` · `Impacket` · `Nuclei` · `BloodHound` · `NetExec` · `Sliver` · `Cobalt Strike` · `Wireshark` · `RF security` · `agentic AI security` · `OWASP LLM Top 10` · `MITRE ATLAS` · `CTF platforms` · `SBOM` · `threat intel` · `red team`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheRedTerror&show_icons=true&theme=react&hide_border=true&bg_color=0a0a0f&title_color=00fff5&text_color=a855f7&icon_color=ff00ff&border_radius=10" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRedTerror&theme=react&hide_border=true&background=0a0a0f&ring=00fff5&fire=ff00ff&currStreakLabel=00fff5&sideLabels=a855f7&dates=39ff14&border_radius=10" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheRedTerror&show_icons=true&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&text_color=935b95&icon_color=FF0055&border_radius=10" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRedTerror&theme=react&hide_border=true&background=04030a&ring=00E5FF&fire=FF0055&currStreakLabel=00E5FF&sideLabels=935b95&dates=97d2e6&border_radius=10" alt="GitHub streak" height="165"/>
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▸_CONNECT-00fff5?style=for-the-badge&labelColor=0a0a0f" alt="Connect"/>
+  <img src="https://img.shields.io/badge/▸_CONNECT-00E5FF?style=for-the-badge&labelColor=04030a" alt="Connect"/>
 </p>
 
 - **Location:** Toronto, Ontario · Remote
@@ -137,6 +139,6 @@ I chain vulnerabilities into realistic attack paths rather than delivering isola
 └───────────────────────────────────────────────────────────────────┘
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:a855f7,100:0a0a0f&height=80&section=footer&fontSize=12&fontColor=00fff5&animation=fadeIn" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:300412,50:935b95,100:071e36&height=80&section=footer&fontSize=12&fontColor=00E5FF&animation=fadeIn" alt="footer"/>
 
 </div>
