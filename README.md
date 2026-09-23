@@ -20,8 +20,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Red+Team+Lead;RF+Security+Operator;Attack+Path+Architect;Adversary+Simulation+Lead&font=Fira+Code&center=true&width=620&height=55&color=00E5FF&background=04030a&vCenter=true&pause=1200&size=22" alt="Operator roles"/>
 
-<img src="https://komarev.com/ghpvc/?username=TheRedTerror&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
 **Mitch Breton** · Penetration Tester / Red Team & Threat Intel Lead · [NetPhantom Security](https://netphantomsecurity.com/)
 
 Toronto, Ontario · Remote
@@ -232,6 +230,8 @@ Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global fin
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 </pre>
+
+<img src="https://komarev.com/ghpvc/?username=TheRedTerror&color=00E5FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:300412,35:935b95,65:071e36,100:04030a&height=90&section=footer&fontSize=12&fontColor=00E5FF&animation=fadeIn" alt="footer"/>
 
