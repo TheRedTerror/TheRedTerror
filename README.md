@@ -2,16 +2,25 @@
 
 <img src="https://github.com/TheRedTerror.png" width="120" alt="z3r0 avatar"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071e36,50:935b95,100:300412&height=200&section=header&text=z3r0&fontSize=80&fontColor=00E5FF&animation=twinkling" alt="z3r0 header"/>
+<pre>
+ ░▒▓█ z3r0 █▓▒░     ◈ NETPHANTOM ◈
+ ╔═╗ ╔═╗ ╔═╗ ╔═╗    OPERATOR DOSSIER
+ ║z ║ ║3 ║ ║r ║ ║0 ║   RF · AD · AI · RF
+ ╚═╝ ╚═╝ ╚═╝ ╚═╝
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04030a,20:071e36,45:935b95,70:300412,100:071e36&height=220&section=header&text=z3r0&fontSize=85&fontColor=00E5FF&animation=twinkling" alt="z3r0 header"/>
 
 <pre>
 ╔══════════════════════════════════════════════╗
 ║  ◈ SYSTEM ONLINE ◈  ·  OPERATOR: z3r0       ║
-║     NETPHANTOM SECURITY                      ║
+║     NETPHANTOM SECURITY  ·  DOSSIER v2.0     ║
 ╚══════════════════════════════════════════════╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Pentest+%7C+RF+Security+%7C+Threat+Intel&font=Fira+Code&center=true&width=600&height=50&color=00E5FF&background=04030a&vCenter=true" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Red+Team+Lead;RF+Security+Operator;Attack+Path+Architect;Adversary+Simulation+Lead&font=Fira+Code&center=true&width=620&height=55&color=00E5FF&background=04030a&vCenter=true&pause=1200&size=22" alt="Operator roles"/>
+
+<img src="https://komarev.com/ghpvc/?username=TheRedTerror&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 **Mitch Breton** · Penetration Tester / Red Team & Threat Intel Lead · [NetPhantom Security](https://netphantomsecurity.com/)
 
@@ -21,6 +30,7 @@ Toronto, Ontario · Remote
 ┌─ // OPERATOR TRANSMISSION ────────────────────┐
 │  ▷ Chain vulns into attack paths — not       │
 │    isolated findings.                        │
+│  ◈ Evidence-first · decision-grade insight   │
 └──────────────────────────────────────────────┘
 </pre>
 
@@ -31,7 +41,9 @@ Toronto, Ontario · Remote
 </div>
 
 <pre>
-// ── PROFILE ───────────────────────────────────
+┌─ ◈ PROFILE ──────────────────────────────────┐
+│  ▷ operator identity · threat surface map    │
+└──────────────────────────────────────────────┘
 </pre>
 
 Offensive security engineer at **NetPhantom Security** and **Senior Security Analyst II** at Aylo — application pentesting, adversary simulation, identity abuse, and trust-boundary failures across web, API, Active Directory, network infrastructure, agentic AI, and RF/physical security.
@@ -49,7 +61,9 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 > `> OUTPUT:` I don't hand you a tool dump. I tell you what breaks, why it matters, and what to fix first.
 
 <pre>
-// ── EXPERIENCE ────────────────────────────────
+┌─ ◈ EXPERIENCE ───────────────────────────────┐
+│  ▷ engagement history · operator timeline    │
+└──────────────────────────────────────────────┘
 </pre>
 
 | Period | Role | Focus |
@@ -59,7 +73,9 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 | **Jun 2020 – Oct 2022** | Resident Engineer · **Radware Canada** | Enterprise network security, incident response, DefensePro. Wireshark analysis, DDoS telemetry, security policy design and tuning. |
 
 <pre>
-// ── ARSENAL ───────────────────────────────────
+╔═ ◈ ARSENAL ══════════════════════════════════╗
+║  ▷ tradecraft · tooling · attack surfaces    ║
+╚══════════════════════════════════════════════╝
 </pre>
 
 | Domain | Focus |
@@ -73,13 +89,25 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 | **RF / Physical** | RFID, NFC, Wi-Fi, BLE, Zigbee, LoRa, LTE, covert entry, wireless trust-boundary abuse |
 | **Operations** | ~2K findings/year triage & retest, bug-bounty program alignment, executive risk framing, blue-team collaboration, binary/CTF tradecraft |
 
-**Languages & platforms**
+<pre>
+┌─ // NEON STACK ──────────────────────────────┐
+│  ◈ languages · platforms · runtime           │
+└──────────────────────────────────────────────┘
+</pre>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,go,bash,linux,docker,kali,git&theme=dark&perline=8" alt="Python, Rust, Go, Bash, Linux, Docker, Kali, Git"/>
 </p>
 
-**Tools**
+<p align="center">
+  <img src="https://github-readme-tech-stack-animation.vercel.app/cards?lineCount=4&techStack=python,rust,go,bash,linux,docker,kali,git&align=center&duration=35&gradient=00E5FF,FF0055,935b95" alt="Tech stack animation"/>
+</p>
+
+<pre>
+┌─ // OFFENSIVE TOOLKIT ───────────────────────┐
+│  ▷ deployed · tested · chain-ready           │
+└──────────────────────────────────────────────┘
+</pre>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-04030a?style=for-the-badge&logo=burpsuite&logoColor=00E5FF&labelColor=071e36" alt="Burp Suite"/>
@@ -95,7 +123,9 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 </p>
 
 <pre>
-// ── SPEAKING & RESEARCH ───────────────────────
+┌─ ◈ SPEAKING & RESEARCH ──────────────────────┐
+│  ▷ stage · research · hostile airspace     │
+└──────────────────────────────────────────────┘
 </pre>
 
 | Event | Talk |
@@ -105,17 +135,33 @@ I chain vulnerabilities into realistic attack paths rather than isolated finding
 | **BSides Montreal 2023** | "Introduction to Binary Exploitation Using Pwntools" |
 
 <pre>
-// ── COMPETITIONS ──────────────────────────────
+╔═ ◈ COMPETITIONS ═════════════════════════════╗
+║  ▷ global finals · attack/defend · ranked    ║
+╚══════════════════════════════════════════════╝
 </pre>
 
 **InfiniteCTF 2025 Main Event** · [Red Team Association](https://redteamassociation.com/ctf.html) · Attack/Defend · Nov 2025
 
-Member of **DCG-SATX** — **2nd place** (60,830 pts) · 10-team global finals · 7 custom services · 44 operators
+Member of **DCG-SATX** — **🥈 2nd place** (60,830 pts) · 10-team global finals · 7 custom services · 44 operators
+
+<pre>
+        ┌─────────┐
+   🥇   │    1    │   GreyPuppyProblems
+        │ 121,320 │
+        └────┬────┘
+  ┌──────────┼──────────┐
+  │    🥈    │    🥉    │
+  │    2     │    3     │
+  │ DCG-SATX │UnderThe  │
+  │  60,830  │ Cloud    │
+  │  ◈ YOU ◈ │  55,000  │
+  └──────────┴──────────┘
+</pre>
 
 | Rank | Team | Points |
 | --- | --- | --- |
 | 1 | GreyPuppyProblems | 121,320 |
-| 2 | **DCG-SATX** | **60,830** |
+| **🥈 2** | **◈ DCG-SATX ◈** | **60,830** |
 | 3 | UnderTheCloud | 55,000 |
 
 <pre>
@@ -125,7 +171,9 @@ Member of **DCG-SATX** — **2nd place** (60,830 pts) · 10-team global finals �
 </pre>
 
 <pre>
-// ── CREDENTIALS ───────────────────────────────
+┌─ ◈ CREDENTIALS ──────────────────────────────┐
+│  ▷ verified · coursework · dean's list       │
+└──────────────────────────────────────────────┘
 </pre>
 
 [![PNPT](https://img.shields.io/badge/PNPT-TCM_Security-04030a?style=flat-square&logo=acclaim&logoColor=97d2e6&labelColor=071e36)](https://github.com/TheRedTerror)
@@ -137,7 +185,9 @@ Member of **DCG-SATX** — **2nd place** (60,830 pts) · 10-team global finals �
 **Education:** Advanced Diploma, Cyber Security · Fanshawe College (2021) · Dean's List semesters 4–6
 
 <pre>
-// ── SELECTED WORK ─────────────────────────────
+┌─ ◈ SELECTED WORK ────────────────────────────┐
+│  ▷ repos · research · operator tooling       │
+└──────────────────────────────────────────────┘
 </pre>
 
 | Repository | Notes |
@@ -150,22 +200,39 @@ Member of **DCG-SATX** — **2nd place** (60,830 pts) · 10-team global finals �
 
 <div align="center">
 
+<pre>
+╔══════════════════════════════════════════════╗
+║         ◈  O P E R A T O R  M E T R I C S  ◈         ║
+╚══════════════════════════════════════════════╝
+</pre>
+
 <img src="https://github-readme-stats.vercel.app/api?username=TheRedTerror&show_icons=true&theme=react&hide_border=true&bg_color=04030a&title_color=00E5FF&text_color=935b95&icon_color=FF0055&border_radius=10" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRedTerror&theme=react&hide_border=true&background=04030a&ring=00E5FF&fire=FF0055&currStreakLabel=00E5FF&sideLabels=935b95&dates=97d2e6&border_radius=10" alt="GitHub streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=TheRedTerror&theme=react&hide_border=true&background=04030a&ring=00E5FF&fire=FF0055&currStreakLabel=00E5FF&sideLabels=935b95&dates=97d2e6&border_radius=10" alt="GitHub streak" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRedTerror&bg_color=04030a&color=00E5FF&line=FF0055&point=935b95&area=true&hide_border=true" alt="Activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheRedTerror&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub trophies"/>
 
 <pre>
-// ── CONNECT ───────────────────────────────────
+┌─ ◈ CONNECT ──────────────────────────────────┐
+│  ▷ firm · team · engagements · signal        │
+└──────────────────────────────────────────────┘
 </pre>
 
 **Firm** · [netphantomsecurity.com](https://netphantomsecurity.com/) · **Team** · [NetPhantom — Z3r0](https://netphantomsecurity.com/team/) · **Engagements** · [Contact](https://netphantomsecurity.com/contact/) · **LinkedIn** · [Profile](LINK)
 
 <pre>
-┌──────────────────────────────────────────────┐
-│  ◈ NetPhantom Security ◈                     │
-│  ▷ adversarial mindset · decision-grade insight │
-└──────────────────────────────────────────────┘
+╔══════════════════════════════════════════════╗
+║  ◈ END TRANSMISSION ◈  ·  NETPHANTOM         ║
+║  ▷ adversarial mindset · decision-grade insight ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  You're not chasing shadows —                ║
+║  we're chasing you.                          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:300412,50:935b95,100:071e36&height=80&section=footer&fontSize=12&fontColor=00E5FF&animation=fadeIn" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:300412,35:935b95,65:071e36,100:04030a&height=90&section=footer&fontSize=12&fontColor=00E5FF&animation=fadeIn" alt="footer"/>
 
 </div>
